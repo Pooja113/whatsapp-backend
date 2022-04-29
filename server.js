@@ -18,7 +18,7 @@ const pusher = new Pusher({
   useTLS: true
 });
 
-const connection_url = 'mongodb+srv://admin:CLyA7AcaiRTgks6A@cluster0.w3pak.mongodb.net/whatsappdb?retryWrites=true&w=majority';
+const connection_url = '';
 
 
 // MiddleWare
